@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @herbertlein
 - 👀 I’m interested in open dtu
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning in github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me test
 
